@@ -19,9 +19,6 @@ EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InventoryML.Learner.Tests", "Tests\InventoryML.Learner.Tests\InventoryML.Learner.Tests.csproj", "{562B339B-9920-4D9D-AF97-2A85671374B8}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{D03E42D9-1BAA-4CD1-8B4C-524F74ABBC1F}"
-	ProjectSection(SolutionItems) = preProject
-		InventoryAPI.Purpose.md = InventoryAPI.Purpose.md
-	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
